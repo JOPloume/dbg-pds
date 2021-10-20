@@ -89,7 +89,7 @@ The contents of the Deutsche Börse Public Dataset, from the Xetra and Eurex tra
 
 ## Calendar
 
-Trading data is currently available as far back as June 26th 2017 for Xetra, and May 29th 2017 for Eurex.  Additional historical data may be made available in the future, depending on demand.
+Trading data is currently available as far back as June 17th 2017 for Xetra, and May 29th 2017 for Eurex.  Additional historical data may be made available in the future, depending on demand.
 
 ## Example Use Cases
 
